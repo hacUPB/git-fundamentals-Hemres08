@@ -24,8 +24,7 @@ int main(int argc, char *argv[]) {
     int b;
     for (b = number; b > 1; b--)
     {
-        factorial *= b;
-        return(1);///Linea de prueba 
+        factorial *= b; 
     }
     
     /*Print the result*/
