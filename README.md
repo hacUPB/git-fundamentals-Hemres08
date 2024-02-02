@@ -6,7 +6,7 @@ Este proyecto toma los valores que se le den y revisara si son mayores que cero 
 
 ![Logo de Markdown](Imagenes/Imfine.jpg)
 
-- [Sitio web para codigo de md](https://markdown.es/sintaxis-markdown/)
+- [Sitio web sintaxis de md](https://markdown.es/sintaxis-markdown/)
 
 
 * Aqui tienes una lista con algunos comandos de git: 
@@ -24,7 +24,7 @@ Este proyecto toma los valores que se le den y revisara si son mayores que cero 
    - git pull "nombre del repositorio" "nombre de la rama"
    
 5. Estas mas adelantado?, No hay problema!: 
-   - git push Envias tus commits al repositorio 
+   - git push //Envias tus commits al repositorio para estar en linea  
 
 
    
