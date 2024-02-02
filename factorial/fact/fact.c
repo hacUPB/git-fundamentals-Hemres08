@@ -42,8 +42,16 @@ int main(int argc, char *argv[]) {
         index++;
     }
     
-
     /*Print the result*/
+
+    if(count == 1)
+    {
+        printf("%d es número primo\n",number);
+    }
+    else
+    {
+        printf("%d no es número primo\n",number);
+    }
     
     return 0;
 }
