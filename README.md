@@ -6,6 +6,8 @@ Evaluación sobre uso de git para manejo de repositorios. Se espera que el estud
 
 Este proyecto toma los valores que se le den y revisara si son mayores que cero le sacara su factorial y te dira si es primo o no. 
 
-![Logo de Markdown](C:\Users\Hermes\Documents\Evaluacion\git-fundamentals-Hemres08\Imagenes\Imfine.jpg)
+![Logo de Markdown](/c/Users/Hermes/Documents/Evaluacion/Imagenes/Imfine.jpg)
+
+
 
 
