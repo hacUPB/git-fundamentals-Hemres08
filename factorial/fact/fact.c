@@ -11,8 +11,7 @@ int main(int argc, char *argv[]) {
     
     /*It must be verified that the entered number is greater than or equal to zero*/
 
-    if(number < 0) 
-    {
+    if(number < 0){
         fprintf(stderr,"The number must be greater than or equal to zero\n");///
         return(1);
 
@@ -22,8 +21,7 @@ int main(int argc, char *argv[]) {
     
     int factorial = 1;
     int b;
-    for (b = number; b > 1; b--)
-    {
+    for (b = number; b > 1; b--){
         factorial *= b; 
     }
     
@@ -34,10 +32,8 @@ int main(int argc, char *argv[]) {
     /*Implement the function that calculates if the argument is a prime number*/
 
     int count = 0,index = 1;
-    while (index < number)
-    {
-        if(number%index == 0)
-            {
+    while (index < number){
+        if(number%index == 0){
             count++;
             }
         index++;
@@ -45,12 +41,10 @@ int main(int argc, char *argv[]) {
     
     /*Print the result*/
 
-    if(count == 1)
-    {
+    if(count == 1){
         printf("%d is a prime number\n",number);///
     }
-    else
-    {
+    else{
         printf("%d is not a prime number\n",number);///
     }
     
