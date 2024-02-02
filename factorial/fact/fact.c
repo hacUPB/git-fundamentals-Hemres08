@@ -41,7 +41,6 @@ int main(int argc, char *argv[]) {
             count++;
             }
         index++;
-        return(1);/*Linea de prueba*/
     }
     
     /*Print the result*/
