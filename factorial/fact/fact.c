@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
     
     /*Print the result*/
 
-    printf("The factorial of %d is:  %d\n",number,factorial); ////
+    printf("The factorial of %d is: %d\n",number,factorial); ////
     
     /*Implement the function that calculates if the argument is a prime number*/
 
