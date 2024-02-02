@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
     for (b = number; b > 1; b--)
     {
         factorial *= b;
+        return(1);///Linea de prueba 
     }
     
     /*Print the result*/
@@ -41,6 +42,7 @@ int main(int argc, char *argv[]) {
             count++;
             }
         index++;
+        return(1);/*Linea de prueba*/
     }
     
     /*Print the result*/
