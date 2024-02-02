@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
 
     if(number < 0) 
     {
-        fprintf(stderr,"The number must be greater than or equal to zero");///
+        fprintf(stderr,"The number must be greater than or equal to zero\n");///
         return(1);
 
     } 
@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
     
     /*Print the result*/
 
-    printf("The factorial of %d is:  %d",number,factorial); ////
+    printf("The factorial of %d is:  %d\n",number,factorial); ////
     
     /*Implement the function that calculates if the argument is a prime number*/
 
