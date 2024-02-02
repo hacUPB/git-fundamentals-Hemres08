@@ -26,8 +26,9 @@ int main(int argc, char *argv[]) {
         factorial *= b;
     }
     
-    
     /*Print the result*/
+
+    printf("El factorial de %d es %d",number,factorial);
     
     /*Implement the function that calculates if the argument is a prime number*/
 
