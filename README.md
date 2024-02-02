@@ -24,7 +24,7 @@ Este proyecto toma los valores que se le den y revisara si son mayores que cero 
    - git pull "nombre del repositorio" "nombre de la rama"
    
 5. Estas mas adelantado?, No hay problema!: 
-   - git push //Envias tus commits al repositorio para estar en linea  
+   - git push (Envias tus commits al repositorio para estar en linea) 
 
 
    
